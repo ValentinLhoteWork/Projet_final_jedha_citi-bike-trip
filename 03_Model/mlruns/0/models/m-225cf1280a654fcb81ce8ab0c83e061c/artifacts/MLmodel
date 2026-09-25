@@ -1,0 +1,26 @@
+artifact_path: file:c:/me/Projects/Aggregate/BlOC6/03_Model/mlruns/0/models/m-225cf1280a654fcb81ce8ab0c83e061c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.skops
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.1
+    skops_trusted_types:
+    - numpy.dtype
+    - xgboost.core.Booster
+    - xgboost.sklearn.XGBRegressor
+mlflow_version: 3.16.0
+model_id: m-225cf1280a654fcb81ce8ab0c83e061c
+model_size_bytes: 1932743
+model_uuid: m-225cf1280a654fcb81ce8ab0c83e061c
+prompts: null
+run_id: bb1114a9c18643a88b10b48474937895
+utc_time_created: '2026-09-25 18:17:38.045111'
