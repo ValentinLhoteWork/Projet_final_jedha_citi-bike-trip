@@ -7,6 +7,10 @@
 <img width="2056" height="441" alt="S3_raw_folder_project_citi-bike" src="https://github.com/user-attachments/assets/b1acc4a5-eafb-4954-b3dc-29daaaefa8c0" />
 
 
+## FastAPI
+
+<img width="1827" height="1227" alt="FastAPI_prediction_flux" src="https://github.com/user-attachments/assets/73fc3057-b09b-4568-b451-09b08792cb55" />
+
 ## Introduction
 
 ### Citi Bike est le pilier de la micromobilité à New York et le plus grand réseau de vélos en libre-service d'Amérique du Nord.
